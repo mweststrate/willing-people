@@ -24,14 +24,17 @@ _Michel_
 - Tejas Kumar / [@TejasKumar\_](https://twitter.com/TejasKumar_)
 - Alec Larson / [@alecdotbiz](https://twitter.com/alecdotbiz)
 - Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_)
+- Martijn Faassen / [@faassen](https://twitter.com/faassen) / React + MobX, Mobx-State-Tree, mstform
 
 # 👨‍💼 Consultancy
 
 - Gabe greenberg / [@gabe_g2i](https://twitter.com/gabe_g2i) / https://g2i.co
 - Jamon Holmgren / Gant Laborde / [@jamonholmgrem](https://twitter.com/jamonholmgrem) / [@GantLaborde](https://twitter.com/GantLaborde) / Infinite Red / https://infinite.red / React, React Native, MobX-State-Tree
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
+- Martijn Faassen / [@faassen](https://twitter.com/faassen) / React + MobX, Mobx-State-Tree, mstform, Python
 
 # 🛠 Workshops
 
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
 - Kitze / [@thekitze](https://twitter.com/thekitze) / React, GraphQL, MobX / MobX-State-Tree
+- Martijn Faassen / [@faassen](https://twitter.com/faassen) / React + MobX, Mobx-State-Tree, mstform, Python
