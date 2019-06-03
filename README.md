@@ -24,6 +24,7 @@ _Michel_
 - Tejas Kumar / [@TejasKumar\_](https://twitter.com/TejasKumar_)
 - Alec Larson / [@alecdotbiz](https://twitter.com/alecdotbiz)
 - Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_)
+- Jovi De Croock / [@JoviDeC](https://twitter.com/JoviDeC) / https://jovidecroock.com / Performance / React / GraphQL
 
 # 👨‍💼 Consultancy
 
