@@ -24,7 +24,7 @@ _Michel_
 - Tejas Kumar / [@TejasKumar\_](https://twitter.com/TejasKumar_)
 - Alec Larson / [@alecdotbiz](https://twitter.com/alecdotbiz)
 - Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_)
-- Jesse Martin / [@motleydev\_](https://twitter.com/motleydev) / React, GraphQL, Digital Transformations, APIs 
+- Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Digital Transformations, APIs 
 
 # 👨‍💼 Consultancy
 
@@ -36,4 +36,4 @@ _Michel_
 
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
 - Kitze / [@thekitze](https://twitter.com/thekitze) / React, GraphQL, MobX / MobX-State-Tree
-- Jesse Martin / [@motleydev\_](https://twitter.com/motleydev) / React, GraphQL, Headless Content Management
+- Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Headless Content Management
