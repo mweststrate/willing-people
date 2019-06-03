@@ -30,8 +30,10 @@ _Michel_
 - Gabe greenberg / [@gabe_g2i](https://twitter.com/gabe_g2i) / https://g2i.co
 - Jamon Holmgren / Gant Laborde / [@jamonholmgrem](https://twitter.com/jamonholmgrem) / [@GantLaborde](https://twitter.com/GantLaborde) / Infinite Red / https://infinite.red / React, React Native, MobX-State-Tree
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
+- [500Tech](https://500tech.com) / React, Redux, Architecture, Webpack, Performance, React Native, Projects
 
 # 🛠 Workshops
 
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
 - Kitze / [@thekitze](https://twitter.com/thekitze) / React, GraphQL, MobX / MobX-State-Tree
+- [500Tech](https://500tech.com/training) / React, Redux, Advanced Frontend, Webpack, Testing, NodeJS
