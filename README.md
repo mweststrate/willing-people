@@ -23,7 +23,7 @@ _Michel_
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
 - Tejas Kumar / [@TejasKumar\_](https://twitter.com/TejasKumar_)
 - Alec Larson / [@alecdotbiz](https://twitter.com/alecdotbiz)
-- Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_)
+- Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_) / Compilers, Modularity and Dev Tools 
 
 # 👨‍💼 Consultancy
 
