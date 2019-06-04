@@ -24,6 +24,7 @@ _Michel_
 - Tejas Kumar / [@TejasKumar\_](https://twitter.com/TejasKumar_)
 - Alec Larson / [@alecdotbiz](https://twitter.com/alecdotbiz)
 - Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_)
+- Pedro Pessoa / [@pedpess](https://twitter.com/pedpess) / Flutter / React Native / Android
 
 # 👨‍💼 Consultancy
 
