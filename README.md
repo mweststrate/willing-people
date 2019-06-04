@@ -24,6 +24,7 @@ _Michel_
 - Tejas Kumar / [@TejasKumar\_](https://twitter.com/TejasKumar_)
 - Alec Larson / [@alecdotbiz](https://twitter.com/alecdotbiz)
 - Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_)
+- Farzad YousefZadeh / [@farzad_yz](https://twitter.com/farzad_yz) / React / React Native / State machines and Statecharts
 
 # 👨‍💼 Consultancy
 
