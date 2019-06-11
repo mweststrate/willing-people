@@ -23,16 +23,25 @@ _Michel_
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
 - Tejas Kumar / [@TejasKumar\_](https://twitter.com/TejasKumar_)
 - Alec Larson / [@alecdotbiz](https://twitter.com/alecdotbiz)
-- Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_)
+- Martijn Faassen / [@faassen](https://twitter.com/faassen) / React + MobX, Mobx-State-Tree, mstform
+- Farzad YousefZadeh / [@farzad_yz](https://twitter.com/farzad_yz) / React / React Native / State machines and Statecharts
+- Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_) / Compilers, Modularity and Dev Tools 
+- Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Digital Transformations, APIs 
+- Jovi De Croock / [@JoviDeC](https://twitter.com/JoviDeC) / https://jovidecroock.com / Performance / React / GraphQL
 - Pedro Pessoa / [@pedpess](https://twitter.com/pedpess) / Flutter / React Native / Android
 
 # 👨‍💼 Consultancy
 
 - Gabe greenberg / [@gabe_g2i](https://twitter.com/gabe_g2i) / https://g2i.co
 - Jamon Holmgren / Gant Laborde / [@jamonholmgrem](https://twitter.com/jamonholmgrem) / [@GantLaborde](https://twitter.com/GantLaborde) / Infinite Red / https://infinite.red / React, React Native, MobX-State-Tree
+- [500Tech](https://500tech.com) / React, Redux, Architecture, Webpack, Performance, React Native, Projects
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
+- Martijn Faassen / [@faassen](https://twitter.com/faassen) / React + MobX, Mobx-State-Tree, mstform, Python
 
 # 🛠 Workshops
 
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
 - Kitze / [@thekitze](https://twitter.com/thekitze) / React, GraphQL, MobX / MobX-State-Tree
+- Martijn Faassen / [@faassen](https://twitter.com/faassen) / React + MobX, Mobx-State-Tree, mstform, Python
+- [500Tech](https://500tech.com/training) / React, Redux, Advanced Frontend, Webpack, Testing, NodeJS
+- Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Headless Content Management
