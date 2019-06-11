@@ -45,3 +45,4 @@ _Michel_
 - Martijn Faassen / [@faassen](https://twitter.com/faassen) / React + MobX, Mobx-State-Tree, mstform, Python
 - [500Tech](https://500tech.com/training) / React, Redux, Advanced Frontend, Webpack, Testing, NodeJS
 - Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Headless Content Management
+- Gert Hengeveld / [@GHengeveld](https://twitter.com/GHengeveld) / React / React Async
