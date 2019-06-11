@@ -28,6 +28,7 @@ _Michel_
 - Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_) / Compilers, Modularity and Dev Tools 
 - Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Digital Transformations, APIs 
 - Jovi De Croock / [@JoviDeC](https://twitter.com/JoviDeC) / https://jovidecroock.com / Performance / React / GraphQL
+- Pedro Pessoa / [@pedpess](https://twitter.com/pedpess) / Flutter / React Native / Android
 
 # 👨‍💼 Consultancy
 
