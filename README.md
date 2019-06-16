@@ -29,6 +29,7 @@ _Michel_
 - Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Digital Transformations, APIs 
 - Jovi De Croock / [@JoviDeC](https://twitter.com/JoviDeC) / https://jovidecroock.com / Performance / React / GraphQL
 - Pedro Pessoa / [@pedpess](https://twitter.com/pedpess) / Flutter / React Native / Android
+- Maurice de Beijer / [@mauricedb](https://twitter.com/mauricedb) / React / TypeScript / RxJS / Best practices / Architecture
 
 # 👨‍💼 Consultancy
 
@@ -37,6 +38,7 @@ _Michel_
 - [500Tech](https://500tech.com) / React, Redux, Architecture, Webpack, Performance, React Native, Projects
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
 - Martijn Faassen / [@faassen](https://twitter.com/faassen) / React + MobX, Mobx-State-Tree, mstform, Python
+- Maurice de Beijer / [@mauricedb](https://twitter.com/mauricedb) / React / TypeScript / RxJS / Best practices / Architecture
 
 # 🛠 Workshops
 
@@ -46,3 +48,4 @@ _Michel_
 - [500Tech](https://500tech.com/training) / React, Redux, Advanced Frontend, Webpack, Testing, NodeJS
 - Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Headless Content Management
 - Gert Hengeveld / [@GHengeveld](https://twitter.com/GHengeveld) / React / React Async
+- Maurice de Beijer / [@mauricedb](https://twitter.com/mauricedb) / React / TypeScript / RxJS / Best practices / Architecture
