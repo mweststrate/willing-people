@@ -18,6 +18,7 @@ _Michel_
 
 # 👩‍🎓 Speakers
 
+- Anushree Subramani / [@imAnushree](https://twitter.com/imAnushree) / React / Web Performance / JS
 - Pavan Podila / [@pavanpodila](https://twitter.com/pavanpodila) / MobX / Flutter
 - Gert Hengeveld / [@GHengeveld](https://twitter.com/GHengeveld) / React / React Async
 - Vladimir Novick / [@VladimirNovick](https://twitter.com/VladimirNovick) / GraphQL, React Native, VR
@@ -25,8 +26,8 @@ _Michel_
 - Alec Larson / [@alecdotbiz](https://twitter.com/alecdotbiz)
 - Martijn Faassen / [@faassen](https://twitter.com/faassen) / React + MobX, Mobx-State-Tree, mstform
 - Farzad YousefZadeh / [@farzad_yz](https://twitter.com/farzad_yz) / React / React Native / State machines and Statecharts
-- Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_) / Compilers, Modularity and Dev Tools 
-- Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Digital Transformations, APIs 
+- Doron Tsur / [@qbllr\_](https://twitter.com/qbllr_) / Compilers, Modularity and Dev Tools
+- Jesse Martin / [@motleydev](https://twitter.com/motleydev) / React, GraphQL, Digital Transformations, APIs
 - Jovi De Croock / [@JoviDeC](https://twitter.com/JoviDeC) / https://jovidecroock.com / Performance / React / GraphQL
 - Pedro Pessoa / [@pedpess](https://twitter.com/pedpess) / Flutter / React Native / Android
 - Maurice de Beijer / [@mauricedb](https://twitter.com/mauricedb) / React / TypeScript / RxJS / Best practices / Architecture
